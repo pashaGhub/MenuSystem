@@ -1,0 +1,178 @@
+[
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\BlueprintAssetHelper.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\BlueprintAssetHelpers.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\BlueprintReferencesCommandlet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\BlueprintReferencesCommandlet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VSServerCommandlet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VSServerCommandlet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VSTestAdapterCommandlet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VSTestAdapterCommandlet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VisualStudioTools.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VisualStudioToolsCommandlet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VisualStudioToolsCommandlet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VisualStudioToolsCommandletBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Private\\VisualStudioToolsCommandletBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\Public\\VisualStudioTools.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\VisualStudioTools.29.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Source\\MenuSystem\\MenuSystem.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MenuSystem.1.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Source\\MenuSystem\\MenuSystem.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MenuSystem.1.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Source\\MenuSystem\\MenuSystem.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MenuSystem.1.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Source\\MenuSystem\\MenuSystemCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MenuSystem.1.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Source\\MenuSystem\\MenuSystemCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MenuSystem.1.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Source\\MenuSystem\\MenuSystemGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MenuSystem.1.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\Source\\MenuSystem\\MenuSystemGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine 5\\Unreal Projects\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MenuSystem.1.rsp"
+		],
+		"directory": "C:\\Unreal Engine 5\\UE_5.5\\Engine\\Source"
+	}
+]
