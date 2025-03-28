@@ -201,6 +201,8 @@ void AMenuSystemCharacter::OnFindSessionsCompleteDelegate(bool bWasSuccessful)
 		FString User = SearchResult.Session.OwningUserName;
 		FString MatchType;
 		SearchResult.Session.SessionSettings.Get(FName("MatchType"), MatchType);
+		SearchResult.Session.SessionSettings.bUsesPresence = true;
+		SearchResult.Session.SessionSettings.bUseLobbiesIfAvailable = true;
 		if (GEngine)
 		{
 			GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Turquoise, FString::Printf(TEXT("Found session: %s, Owner: %s"), *SessionId, *User));
